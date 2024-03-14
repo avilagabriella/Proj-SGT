@@ -8,7 +8,6 @@
 - NodeJS
 - Insomnia
 - Mysql
-- sql
 - MD5/Bcrypt
 
  ## Como testar:
