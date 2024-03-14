@@ -3,14 +3,14 @@
 ## Descrição:
  - O sistema de gerenciamento de tarefas permite aos usuários criar, visualizar, atualizar e excluir tarefas.Além disso, as tarefas podem ser atribuídas a usuários específicos. Com intuito de facilitar e organizar seu dia a dia.
  
-# Linguagens:
+## Linguagens:
 - JavaScript
 - NodeJS
 - Insomnia
 - sql
 - MD5/Bcrypt
 
- # Como testar:
+ ## Como testar:
   1. Clone este repositório.
   2. Abra o XAMPP e clique em start nos serviços Apache e MySQL.
   3. Abra um terminal "cmd" e acesse o mysql.
