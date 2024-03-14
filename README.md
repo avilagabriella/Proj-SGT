@@ -7,6 +7,7 @@
 - JavaScript
 - NodeJS
 - Insomnia
+- Mysql
 - sql
 - MD5/Bcrypt
 
