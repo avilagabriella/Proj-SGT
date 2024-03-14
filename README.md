@@ -15,6 +15,7 @@ Linguagens:
   1. Clone este repositório.
   2. Abra o XAMPP e clique em start nos serviços Apache e MySQL.
   3. Abra um terminal "cmd" e acesse o mysql.
+   
      ```
      mysql -u root
      ```
