@@ -1,7 +1,7 @@
 # Projeto: Sistema de Gerenciamento de Tarefas
 
 ## Descrição:
- - O sistema de gerenciamento de tarefas permite aos usuários criar, visualizar, atualizar e excluir tarefas.Além disso, as tarefas podem ser atribuídas a usuários específicos. Com intuito de facilitar e organizar seu dia a dia.
+ - O sistema de gerenciamento de tarefas permite aos usuários criar, visualizar, atualizar e excluir tarefas. Além disso, as tarefas podem ser atribuídas a usuários específicos. Com intuito de facilitar e organizar seu dia a dia.
  
 ## Linguagens:
 - JavaScript
