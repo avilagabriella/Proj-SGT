@@ -2,8 +2,6 @@ drop database if exists SGT;
 create database SGT CHARSET=UTF8 COLLATE utf8_general_ci;
 use SGT;
 
-
-
 create table Usuarios(
     idUsuarios int not null primary key auto_increment,
     nome varchar(100) not null,
